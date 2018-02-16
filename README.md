@@ -2,7 +2,7 @@
 Collaborative dungeon game! Play as a hero walking through a forest, escaping from jail, fighting monsters and defeating bosses!
 
 <p align="center">
-  <a href="https://nodejs.org/">
+  <a href="https://raw.githubusercontent.com/John95/small_game/master/game_snapshot.PNG">
     <img alt="small_game" src="https://github.com/John95/small_game/blob/master/game_snapshot.PNG" width="400"/>
   </a>
 </p>
